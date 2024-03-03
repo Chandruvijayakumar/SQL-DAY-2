@@ -1,4 +1,10 @@
-# Database Design Documentation
+**Author:** Chandru Vijayakumar
+## Date: March 3, 2024 
+# Guvi Zen Class Database Design                                                                                                                                                                
+
+## Overview
+
+This database model is designed for the Guvi Zen class, capturing essential entities and their relationships.
 
 ## Introduction
 This document provides an overview of the database design for a student management system. The system includes tables for courses, coordinators, mentors, students, batches, tasks, query handler events, completed tasks, pending tasks, and performance tracking.
